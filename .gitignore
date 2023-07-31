@@ -1,4 +1,4 @@
 # dependencies
 /node_modules
-/client/node_modules
-/server/config/config.env
+/frontend/node_modules
+/backend/config/config.env
